@@ -27,7 +27,10 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-  
+  <div align="center">  
+<a href="https://www.linkedin.com/in/leon-fagner-b2a9382b6/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
