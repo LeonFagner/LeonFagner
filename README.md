@@ -36,7 +36,7 @@
 
 
 
- ### Social 
+ ### Social: 
  
 
 <a href="https://www.linkedin.com/in/leon-fagner-b2a9382b6/" target="_blank">
