@@ -30,6 +30,14 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 
 
+### Studying:
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=orange)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+
+
+
+
 
 
 
